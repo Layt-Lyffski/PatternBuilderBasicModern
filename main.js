@@ -33,7 +33,7 @@ u0 = new setUser("yourName", {
   //name is set as init()
   age: 29,
   phone: new PhoneNum(49, 19450507), 
-  address: new Address("Germany", 19390901, "Danzing-Straße 435"),email: "Lebensraum@Reichspost.de",   
+  address: new Address("Germany", 19360130, "Danzing-Straße 435"),email: "Lettlaff@Reichspost.de",   
 })
 //calling the print function
  getUser(u0)
